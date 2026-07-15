@@ -1,0 +1,14 @@
+# Project Rules
+
+Tech Stack:
+- HTML
+- CSS
+- JavaScript
+- Node.js
+
+Guidelines:
+- Write clean, readable code.
+- Use meaningful variable names.
+- Keep functions small and modular.
+- Follow Conventional Commits.
+- Add comments only when necessary.
