@@ -13,3 +13,14 @@ This repository contains my capstone project.
 
 - Learn AI-assisted development
 - Practice Git
+
+## Getting Started
+
+### Prerequisites
+- Node.js 18+ and npm
+
+### Setup
+```bash
+git clone https://github.com/ayeshasafeer1/ai-capstone.git
+cd ai-capstone
+npm install
