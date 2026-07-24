@@ -12,3 +12,11 @@ Guidelines:
 - Keep functions small and modular.
 - Follow Conventional Commits.
 - Add comments only when necessary.
+
+## Project Rules
+
+- Use functional React components and React Hooks.
+- Validate all user input before form submission.
+- Keep component logic simple and readable.
+- Store form state using useState.
+- Write clear commit messages using Conventional Commits.
